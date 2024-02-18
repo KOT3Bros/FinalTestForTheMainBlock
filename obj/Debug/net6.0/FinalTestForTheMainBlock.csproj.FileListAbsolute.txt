@@ -1,0 +1,15 @@
+D:\GeekBrains\FinalTestForTheMainBlock\bin\Debug\net6.0\FinalTestForTheMainBlock.exe
+D:\GeekBrains\FinalTestForTheMainBlock\bin\Debug\net6.0\FinalTestForTheMainBlock.deps.json
+D:\GeekBrains\FinalTestForTheMainBlock\bin\Debug\net6.0\FinalTestForTheMainBlock.runtimeconfig.json
+D:\GeekBrains\FinalTestForTheMainBlock\bin\Debug\net6.0\FinalTestForTheMainBlock.dll
+D:\GeekBrains\FinalTestForTheMainBlock\bin\Debug\net6.0\FinalTestForTheMainBlock.pdb
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.csproj.AssemblyReference.cache
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.AssemblyInfoInputs.cache
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.AssemblyInfo.cs
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.csproj.CoreCompileInputs.cache
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.dll
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\refint\FinalTestForTheMainBlock.dll
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.pdb
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\FinalTestForTheMainBlock.genruntimeconfig.cache
+D:\GeekBrains\FinalTestForTheMainBlock\obj\Debug\net6.0\ref\FinalTestForTheMainBlock.dll
